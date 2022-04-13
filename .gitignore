@@ -1,0 +1,4 @@
+finance_mentor/settings.py
+finance_mentor/__pycache__
+finance_mentor_app/__pycache__
+finance_mentor_app/migrations
